@@ -1,10 +1,8 @@
-########################################
+################################
+PANDAS DATA Frames
+################################
+
 from traceback import FrameSummary
-
-################################
-PANDAS DATA FrameS
-################################
-
 import pandas as pd
 
 # Calling DataFrame constructor
